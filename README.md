@@ -1,4 +1,3 @@
-# Portfolio
 # :book: Portfolio Guide
 
 Hey there! 🙋‍♀️
