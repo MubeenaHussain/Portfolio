@@ -4,8 +4,6 @@ Hey there! 🙋‍♀️
 
 Welcome to my Portfolio guide where I walk you through all of my data analytics projects and case studies.
 
-Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mubeena-hussain-a357b920b) to ask anything about my projects!
-
 ## :books: Table of Contents
 
 - [SQL](#sql)
@@ -18,7 +16,7 @@ Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mubeena-hussain-a
  
  Project Name| Description|Concepts Used
  ------------|------------|------------
-:house:[Data Cleaning on Nashville Housing Data])| Worked on the Consistency, Uniqueness, Completeness, Relevancy of the Data. Divided a single column containing multiple pieces of information into multiple columns to make it more useful.|Case Statements, CTEs, Finding Duplicates using ROW_NUMBER, Self Joins, Functions like SUBSTRING, CHARINDEX, PARSENAME and REPLACE.
+:house:[Data Cleaning on Nashville Housing Data](https://github.com/MubeenaHussain/SQL--1/blob/main/README.md)| Worked on the Consistency, Uniqueness, Completeness, Relevancy of the Data. Divided a single column containing multiple pieces of information into multiple columns to make it more useful.|Case Statements, CTEs, Finding Duplicates using ROW_NUMBER, Self Joins, Functions like SUBSTRING, CHARINDEX, PARSENAME and REPLACE. | 
 :spaghetti: [Danny's Diner](ner)|Case Study of a small restaurant in which I answer questions about its customers, their visiting patterns, amount of money they've spent and their favorite menu items. These answers will help the venture deliver a better and more personalized experience to their loyal customers  | Aggregations, Window Functions, Joins, CTEs, Case Statements, and Subqueries   |
 :pizza: [Pizza Runner]()| Case study of a Zomato-like startup where I answer questions related to Pizza Metrics, Runner & Customer Experience, Ingredient Optimisation, and Pricing and Ratings so that the venture can better direct its runners and optimize operations. Also, a significant focus on handling data quality issues.    | Data Type Conversion, Temporary tables, Aggregations, Case Statements, CTEs, Joins, DATE functions like DATEDIFF, DATEPART & DATEADD, Table-valued functions, CROSS APPLY, String Manipulation Functions like STRING_SPLIT, STRING_AGG plus WITHIN GROUP clause & CONCAT_WS   |
 :ramen: [Foodie Fi]()| This case study is about a Netflix-type startup but only with cooking shows. The idea is to use the data of this subscription-based digital business to understand its customers' journey and behavior on the platform to make data-driven decisions regarding future investments and new features.   |  Aggregations, Joins, Case Statements, CTEs, Window functions like LAG & LEAD, Data Type Conversions to obtain correct percentages & averages, CONCAT to obtain desired string format |
