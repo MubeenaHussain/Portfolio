@@ -38,6 +38,6 @@ Welcome to my Portfolio guide where I walk you through all of my data analytics 
  
  Project Name|Area | Description|Libraries Used
  ------------|------------|------------|-----------
- :oncoming_automobile: [US Car Accidents Analysis]()| Data Cleaning & EDA   | Analyzing **2.8 million** records of Car Accidents in 49 states of America to find trends, patterns and anomalies in the cities where these accidents happened, their timings, monthly and yearly trends, and severity. Also, I try to test this hypothesis - *'Are Car Accidents More Likely to Occur during the Winters?'*   | *pandas, matplotlib, seaborn*  |
+ :oncoming_automobile: [US Car Accidents Analysis](https://github.com/MubeenaHussain/python-1/blob/main/US_Car_Accidents_Jupyter_Notebook.ipynb)| Data Cleaning & EDA   | Analyzing **2.8 million** records of Car Accidents in 49 states of America to find trends, patterns and anomalies in the cities where these accidents happened, their timings, monthly and yearly trends, and severity. Also, I try to test this hypothesis - *'Are Car Accidents More Likely to Occur during the Winters?'*   | *pandas, matplotlib, seaborn*  |
  :snowflake: [Scraping GitHub](\) | Web Scraping | Scraping the *topics* page of GitHub and creating a list of top repositories for each topic   | *requests, beautifulsoup, and pandas* |
 ***
