@@ -7,7 +7,6 @@ Welcome to my Portfolio guide where I walk you through all of my data analytics 
 ## :books: Table of Contents
 
 - [SQL](#sql)
-- [Tableau](#tableau)
 - [Python](#python)
 
  *Click on the project's title to view my projects! Thank you!* ☺️
@@ -23,16 +22,6 @@ Welcome to my Portfolio guide where I walk you through all of my data analytics 
 :money_with_wings: [Data Bank](https://github.com/MubeenaHussain/4.SQL-/blob/main/README.md)| Case study of an initiative that combines banking and cloud data storage. Focuses on exploring how this unique model works, how the business is doing, and using data to forecast for future data storage requirements and developments   | Aggregations, Percentile calculation using PERCENTILE_DISC, Case Statements with SUM, using SUM as Window function to calculate running total, CTEs, Joins  |
 :convenience_store: [Data Mart](https://github.com/MubeenaHussain/5.SQL/blob/main/README.md)| An online supermarket that specializes in fresh produce has recently made a significant change in its packaging methods. The goal is to analyze sales performance over the years and quantify the impact of the big change on its performance and specific business areas. A good example of `Before & After` Analysis   | Data Transformation, Case Statements, CTEs, Sum with Case Statements, ADD AS clause, Before & After Analysis and functions like FORMAT, DATEPART     |
 ***
-
-# Tableau
-
- Project Name| Description| Tableau Dashboard 
- ------------|------------|------------
- :hotel: [Hospitality Challenge](ts) | A 20-year old hotel company is losing market share & revenue due to strategic moves by its new-age competitors. Using its past data, I develop a dashboard and uncover insights about the reasons why the company is losing its business and where can it make improvements to regain market share  |  [Link](https://public.tableau.com/app/profile/mubeena.hussain/viz/HospitalityChallenge_17198416203160/DashboardInsights) |
- :truck: [Supply Chain Analytics Challenge]()| A Gujrat-based FMCG manufacturer is failing to deliver products on time and in full quantities due to supply chain issues, resulting in poor customer service. A dashboard is required to track service levels (mainly OT%, IF% & OTIF%) against targets for each customer to swiftly respond to these issues  |  [Link]() |
- :airplane: [Maven Airlines Challenge](h) | The company has data on 130k passengers about their demographics, flight details, and satisfaction scores on 14 different facilities. There is also an overall verdict on whether they are satisfied or not. Based on this data, a data-driven strategy is recommended to increase customer satisfaction rate.| [Link]()
- 
- ***
  
  # Python
  
